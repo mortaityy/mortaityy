@@ -1,20 +1,3 @@
-# hey, i'm mortaityy
-
-i work with a fork of Vencord for fun and learning
-
-i experiment with discord mods and build small plugins for personal use
-
----
-
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=mortaityy&theme=highcontrast" height="194rem" />
-    </td>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=mortaityy&show_icons=true&bg_color=30,000000,000000&title_color=fff&text_color=fff&icon_color=fff" height="194rem" />
-    </td>
-  </tr>
-</table>
-
----
+<p align="center">
+  <a href="https://github.com/mortaityy"><img src="https://raw.githubusercontent.com/mortaityy/mortaityy/refs/heads/main/cybercore.gif" max-width="100" alt="logo_gif" /></a>
+</p>
